@@ -5,7 +5,6 @@ Apenas um pequeno API de comando de Peso.
 
 ## Funcionalidade
 
-### ⚖️ /api/peso
 - Sorteia um peso entre 35 e 200 kg e retorna uma mensagem de acordo.
 
 Créditos: @kaiseraimmer
